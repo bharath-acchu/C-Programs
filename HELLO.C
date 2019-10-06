@@ -8,6 +8,6 @@ Written For - http://developerinsider.in
 int main()
 {
 	printf("Hello world\n");
-	printf("welcome\n");
+	printf("welcome to c language\n");
 	return 0;
 }
